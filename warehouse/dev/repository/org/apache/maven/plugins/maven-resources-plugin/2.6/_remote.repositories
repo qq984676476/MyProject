@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 22 11:21:46 CST 2018
+maven-resources-plugin-2.6.pom>myPluginRepository=
+maven-resources-plugin-2.6.jar>myPluginRepository=

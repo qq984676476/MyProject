@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 22 11:21:43 CST 2018
+spring-boot-maven-plugin-1.5.8.RELEASE.jar>myPluginRepository=
+spring-boot-maven-plugin-1.5.8.RELEASE.pom>myPluginRepository=

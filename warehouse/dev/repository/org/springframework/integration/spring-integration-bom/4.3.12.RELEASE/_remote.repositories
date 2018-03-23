@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 22 11:21:43 CST 2018
+spring-integration-bom-4.3.12.RELEASE.pom>myPluginRepository=
+spring-integration-bom-4.3.12.RELEASE.pom>myRepository=
