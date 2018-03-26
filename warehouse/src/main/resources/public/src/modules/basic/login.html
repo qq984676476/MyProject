@@ -3,29 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <title>先锋科技仓库管理系统</title>
-    <style type="text/css">
-    .in{position:relative;z-index:1}
-    .con{position:absolute; z-index:2; top: 30%; left:65%} left/* ,top什么的你自己调节*/
-    </style>
 </head>
-<body>
-<div class="in">
-    <div class="img">
-        <img src="../../base/common/image/login.jpg" height="100%" width="100%">
-    </div>
-    <div class="con">
-        <ul style="list-style-type: none;" >
-            <li margin="4px">
-                用户名:<input id="userCode" name="userCode" line>
-            </li>
+<body class="in" style="background-image:url('../../base/common/image/login.jpg');">
+<div style="margin-top: 10%; margin-left: 15%">
+    <font face="verdana" size="10px" color="black">仓库管理系统</font>
+</div>
+<div id="login" style="background-color: transparent;margin-left: 65%; margin-top: 5%;">
+    <form action="#" method="post" class="container offset1 loginform">
 
-            <li>
-                密&nbsp;&nbsp;&nbsp;码:<input id="password" name="password">
-            </li>
-        </ul>
-    </div>
+        <div class="pad">
+            <input type="hidden" name="_csrf" value="9IAtUxV2CatyxHiK2LxzOsT6wtBE6h8BpzOmk="/>
+            <div class="control-group">
+                <div class="controls">
+                    <label for="userName" class="control-label"><i class="fa fa-user" aria-hidden="true"></i></label>
+                    <input id="userName" type="text" name="email" placeholder="账号" tabindex="1" autofocus="autofocus"
+                           class="form-control input-medium"/>
+                </div>
+            </div>
+            <div class="control-group">
+                <div class="controls">
+                    <label for="password" class="control-label"><i class="fa fa-key" aria-hidden="true"></i></label>
+                    <input id="password" type="password" name="password" placeholder="密码" tabindex="2"
+                           class="form-control input-medium"/>
+                </div>
+            </div>
+        </div>
+        <div class="form-actions"><a href="#" tabindex="5" class="btn pull-left btn-link text-muted">Forgot
+            password?</a><a href="#" tabindex="6" class="btn btn-link text-muted">Sign Up</a>
+            <button type="button" id="doLogin" tabindex="4" class="btn btn-primary">Login</button>
+        </div>
+    </form>
+
 </div>
 <script src="../../js/basic/login.js"></script>
-<script src="../../base/common/jquery/jquery.js"></script>
+<script src="../../base/common/jquery/jquery-2.0.3.min.js"></script>
+<link rel="stylesheet" href="../../base/common/css/font-awesome.min.css"/>
+<link rel="stylesheet" href="../../base/common/css/jq22.css"/>
 </body>
 </html>
