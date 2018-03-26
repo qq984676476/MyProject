@@ -2,66 +2,534 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee8f06db-7ef5-46f5-b51a-52c83f0c135f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/base64.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/cookie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/register.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/requirejsMain.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/requirejsMain_singlepage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/type.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/base64/base64.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/base64/base64.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jquery/jqr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/blockUI/2.64/jquery.blockUI.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/jquery.jplayer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/jquery.jplayer.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/jquery.jplayer.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/lrc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/skin/flat.tony/css/jplayer.flat.tony.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/skin/flat.tony/image/jplayer.flat.tony.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/skin/flat.tony/image/jplayer.flat.tony.video.play.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/demo-ie8.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/demo.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload-noscript.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload-ui-noscript.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload-ui.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/cors/jquery.postmessage-transport.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/cors/jquery.xdr-transport.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-angular.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-audio.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-image.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-jquery-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-process.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-validate.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-video.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.iframe-transport.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/vendor/jquery.ui.widget.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jquery.cookie.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/pagination/jquery.pagination.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/pagination/pagination.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/placeholder/jquery.placeholder.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryui/jquery-ui.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryui/jquery-ui.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/json2/json2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/json2/json2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/css-builder.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/css.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/css.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/normalize.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/requirejs.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/text.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/js/personalCenter/MyAlert.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/confirm.tpl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/error.tpl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TDictionaries.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TGroupWork.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TMenu.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TSysUnit.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/manage/TStorageMaterial.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/manage/TStoragePartially.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/manage/TStoragePartiallyProduct.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/basic/TDictionariesDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/basic/TGroupWorkDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/basic/TMenuDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/basic/TSysUnitDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/basic/TUserDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/manage/TStorageMaterialDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/manage/TStoragePartiallyDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/manage/TStoragePartiallyProductDAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TDictionariesMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TGroupWorkMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TMenuMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TStorageMaterialMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TStoragePartiallyMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TStoragePartiallyProductMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TSysUnitMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TUserMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/.gitattributes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/.hound.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/CHANGELOG.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/CNAME" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/CONTRIBUTING.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/Gemfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/Gemfile.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/Gruntfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/ISSUE_TEMPLATE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/_config.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/bower.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_data/browser-bugs.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_data/browser-features.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_data/core-team.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_data/glyphicons.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_data/sass-team.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_data/showcase.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_data/translations.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/ads.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/alerts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/badges.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/button-groups.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/input-groups.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/labels.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/list-group.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/media.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/navbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/navs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/page-header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/pagination.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/panels.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/components/wells.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/code.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/forms.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/grid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/helpers.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/images.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/less.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/overview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/sass.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/tables.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/css/type.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/customizer-variables.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/community.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/download.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/license.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/template.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/header.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/affix.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/alerts.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/carousel.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/collapse.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/overview.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/popovers.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/tabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/tooltips.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/js/transitions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/components.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/css.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/customize.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/javascript.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/main.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_includes/nav/migration.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_layouts/default.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_layouts/home.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_plugins/bridge.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_plugins/bugify.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/apple-touch-icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/css/docs.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/css/src/docs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/img/components.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/img/devices.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/img/sass-less.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/customize.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/docs.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/src/application.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/src/customizer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/browser-bugs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/components.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/css.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/customize.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/dist/js/npm.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/blog/blog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/blog/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/carousel/carousel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/carousel/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/cover/cover.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/cover/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/dashboard/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/grid/grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/grid/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/jumbotron/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/justified-nav/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/navbar/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/navbar/navbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/non-responsive/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/offcanvas/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/signin/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/signin/signin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/starter-template/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/theme/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/theme/theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/getting-started.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/javascript.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/migration.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/robots.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/change-version.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/configBridge.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/grunt/sauce_browsers.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/.jscsrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/affix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/.jshintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/affix.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/phantom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/unit/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/vendor/qunit.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/vendor/qunit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/affix.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/alert.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/button.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/carousel.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/collapse.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/dropdown.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/modal.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/popover.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/scrollspy.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/tab.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tests/visual/tooltip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/js/transition.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/.csscomb.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/.csslintrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/alerts.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/badges.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/bootstrap.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/breadcrumbs.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/button-groups.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/buttons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/carousel.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/close.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/code.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/component-animations.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/dropdowns.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/forms.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/glyphicons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/grid.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/input-groups.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/jumbotron.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/labels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/list-group.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/media.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/alerts.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/background-variant.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/border-radius.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/buttons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/center-block.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/clearfix.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/forms.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/gradients.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/grid-framework.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/grid.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/hide-text.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/image.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/labels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/list-group.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/nav-divider.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/opacity.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/pagination.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/panels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/progress-bar.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/reset-filter.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/reset-text.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/resize.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/responsive-visibility.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/size.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/tab-focus.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/table-row.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/text-emphasis.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/text-overflow.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/modals.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/navbar.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/navs.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/normalize.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/pager.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/pagination.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/panels.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/popovers.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/print.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/progress-bars.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/responsive-embed.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/responsive-utilities.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/scaffolding.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/tables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/theme.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/thumbnails.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/tooltip.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/type.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/utilities.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/less/wells.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/nuget/MyGet.ps1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/nuget/bootstrap.nuspec" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/package.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/image/login.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/js/basic/login.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/public/src/modules/basic/login.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_12.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_12.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_12.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_8_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_8_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_12_RELEASE.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/bean/basic/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TestUser.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/controller/manage/TestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/coms/warehouse/controller/manage/TestController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/base64.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/register.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/requirejsMain.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/requirejsMain_singlepage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/type.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/common/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/base64/base64.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/base64/base64.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jquery/jqr.js" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/jquery/jqr.js" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jquery/jquery.js" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/jquery/jquery.js" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/blockUI/2.64/jquery.blockUI.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/jquery.jplayer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/jquery.jplayer.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/jquery.jplayer.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/jplayer/lrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/skin/flat.tony/css/jplayer.flat.tony.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/skin/flat.tony/image/jplayer.flat.tony.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jPlayer/dist/skin/flat.tony/image/jplayer.flat.tony.video.play.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/demo-ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/demo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload-noscript.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload-ui-noscript.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload-ui.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/jquery.fileupload.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/cors/jquery.postmessage-transport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/cors/jquery.xdr-transport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-angular.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-audio.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-jquery-ui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-process.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-ui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-validate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload-video.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.fileupload.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/jquery.iframe-transport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jQuery-File-Upload/js/vendor/jquery.ui.widget.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/jquery.cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/pagination/jquery.pagination.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/pagination/pagination.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryPlugin/placeholder/jquery.placeholder.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryui/jquery-ui.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/jqueryui/jquery-ui.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/json2/json2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/json2/json2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/css-builder.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/css.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/normalize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/requirejs.min.js" afterPath="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/assets/lib/requirejs/text.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/js/personalCenter/MyAlert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/confirm.tpl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/error.tpl" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,29 +541,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MyAlert.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/js/personalCenter/MyAlert.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/modules/basic/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="87" lean-forward="false" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
-              <folding />
+            <state relative-caret-position="280">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="confirm.tpl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/confirm.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/error.tpl">
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/js/basic/login.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -111,6 +571,8 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -135,7 +597,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/controller/manage/TestController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/util/AmountUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/util/DateUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/util/DateUtil.java" />
@@ -146,6 +607,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/util/ConvertUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/util/constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/bean/basic/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/bean/basic/TestUser.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/src/assets/common/register.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/src/base/common/login.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/src/css/login.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/src/js/basic/login.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/src/modules/basic/login.html" />
       </list>
     </option>
   </component>
@@ -154,6 +622,17 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\repository_warehouse" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.5.0\conf\settings_warehouse.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -177,6 +656,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,21 +680,6 @@
               <item name="warehouse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -232,16 +697,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,50 +706,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="base64" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="base64" type="462c0819:PsiDirectoryNode" />
-              <item name="base64.js" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="jquery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -305,7 +716,7 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="personalCenter" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
@@ -324,63 +735,43 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="personalCenter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="warehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/coms/warehouse/controller/basic" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\workspace\backup\warehouse\src\main\resources\public\src\base\common\image" />
+      <recent name="D:\dev\workspace\backup\warehouse\src\main\java\com\coms\warehouse\beans\manage" />
+      <recent name="D:\dev\workspace\backup\warehouse\src\main\java\com\coms\warehouse\beans\basic" />
+      <recent name="D:\dev\workspace\backup\warehouse\src\main\java\com\coms\warehouse\dao\basic" />
+      <recent name="D:\dev\workspace\backup\warehouse\src\main\java\com\coms\warehouse\dao\manage" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\workspace\backup\warehouse\src\main\resources\public\src\css" />
       <recent name="D:\dev\workspace\warehouse\src\main\java\com\coms" />
       <recent name="D:\dev\workspace\warehouse\src\main\java\com\warehouse" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\dev\workspace\backup\warehouse\src\main\resources\public\src\modules\personalCenter" />
-      <recent name="D:\dev\workspace\backup\warehouse\src\main\resources\public\src\js\personalCenter" />
-      <recent name="D:\dev\workspace\backup\warehouse\src\main\resources\public\src\assets\common" />
-      <recent name="D:\dev\workspace\warehouse\src\main\java\com\coms\warehouse\util" />
-      <recent name="D:\dev\workspace\warehouse\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -395,7 +786,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.WarehouseApplication (1)">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -444,7 +835,13 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="WarehouseApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="WarehouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.warehouse.warehouse.WarehouseApplication" />
+      <module name="warehouse" />
+      <envs />
+    </configuration>
+    <configuration name="WarehouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.coms.warehouse.*" />
@@ -452,12 +849,7 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.coms.warehouse.WarehouseApplication" />
-      <module name="warehouse" />
-      <envs />
-    </configuration>
-    <configuration name="WarehouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.warehouse.warehouse.WarehouseApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <module name="warehouse" />
       <envs />
     </configuration>
@@ -494,13 +886,9 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.WarehouseApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.WarehouseApplication (1)" />
-    </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.WarehouseApplication (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.WarehouseApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -519,7 +907,8 @@
       <updated>1521686730354</updated>
       <workItem from="1521686734711" duration="16578000" />
       <workItem from="1521767104628" duration="8035000" />
-      <workItem from="1521862525890" duration="6387000" />
+      <workItem from="1521862525890" duration="6593000" />
+      <workItem from="1522029722390" duration="16729000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1521772025745</created>
@@ -528,11 +917,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521772025745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试">
+      <created>1521885888370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521885888370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31000000" />
+    <option name="totallyTimeSpent" value="47935000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -547,29 +943,30 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24386252" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24386252" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2124183" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5539216" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2647504" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24130106" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22749591" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -577,41 +974,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32189542" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32189542" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46078432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5539216" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -632,6 +995,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/js/personalCenter/MyAlert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="87" lean-forward="false" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/error.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/modules/personalCenter/confirm.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/bean/basic.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/package-info.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml" />
@@ -642,37 +1029,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/WarehouseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#312#313#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/controller/manage/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -691,14 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="99" column="65" lean-forward="true" selection-start-line="99" selection-start-column="65" selection-end-line="99" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/util/JsonUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1060">
@@ -713,7 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,9 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,18 +1113,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/bean/basic/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -783,7 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,7 +1131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,6 +1138,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/WarehouseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#250#251#0" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TestUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/controller/manage/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/assets/common/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/assets/common/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -816,6 +1199,200 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/basic/TUserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/manage/TStoragePartiallyProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/manage/TStoragePartiallyProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TGroupWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/beans/basic/TMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TDictionariesMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding>
+            <marker date="1522049510169" expanded="true" signature="1593:1710" ph="select from t_dictionaries" />
+            <marker date="1522049510169" expanded="true" signature="1927:1998" ph="delete from t_dictionaries... " />
+            <marker date="1522049510169" expanded="true" signature="2230:2604" ph="insert into t_dictionaries... " />
+            <marker date="1522049510169" expanded="true" signature="4442:5192" ph="update t_dictionaries... " />
+            <marker date="1522049510169" expanded="true" signature="5436:5824" ph="update t_dictionaries... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TGroupWorkMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="73" lean-forward="false" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+          <folding>
+            <marker date="1522049510148" expanded="true" signature="1177:1490" ph="insert into t_group_work... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TMenuMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="72" lean-forward="false" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+          <folding>
+            <marker date="1522049510563" expanded="true" signature="1772:1883" ph="select from t_menu" />
+            <marker date="1522049510563" expanded="true" signature="2100:2165" ph="delete from t_menu... " />
+            <marker date="1522049510563" expanded="true" signature="2389:2857" ph="insert into t_menu... " />
+            <marker date="1522049510563" expanded="true" signature="4989:5935" ph="update t_menu... " />
+            <marker date="1522049510563" expanded="true" signature="6171:6653" ph="update t_menu... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TStorageMaterialMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="77" lean-forward="false" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
+          <folding>
+            <marker date="1522049510228" expanded="true" signature="1838:2534" ph="insert into t_storage_material... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TStoragePartiallyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522049510123" expanded="true" signature="2266:2390" ph="select from t_storage_partially" />
+            <marker date="1522049510123" expanded="true" signature="2607:2685" ph="delete from t_storage_partially... " />
+            <marker date="1522049510123" expanded="true" signature="2922:3654" ph="insert into t_storage_partially... " />
+            <marker date="1522049510123" expanded="true" signature="6632:8111" ph="update t_storage_partially... " />
+            <marker date="1522049510123" expanded="true" signature="8360:9113" ph="update t_storage_partially... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TStoragePartiallyProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522049510424" expanded="true" signature="1933:2673" ph="insert into t_storage_partially_product... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1800">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522049510643" expanded="true" signature="1688:1799" ph="select from t_user" />
+            <marker date="1522049510643" expanded="true" signature="2016:2081" ph="delete from t_user... " />
+            <marker date="1522049510643" expanded="true" signature="2305:2739" ph="insert into t_user... " />
+            <marker date="1522049510643" expanded="true" signature="4731:5589" ph="update t_user... " />
+            <marker date="1522049510643" expanded="true" signature="5825:6266" ph="update t_user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/coms/warehouse/dao/mapper/TSysUnitMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1522049510604" expanded="true" signature="1323:1699" ph="insert into t_sys_unit... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/base/common/bootstrap-3.3.7/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/js/basic/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/src/modules/basic/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
