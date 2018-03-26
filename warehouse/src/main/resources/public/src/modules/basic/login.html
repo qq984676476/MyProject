@@ -1,43 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="../../base/common/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="../../base/common/css/jq22.css"/>
     <meta charset="UTF-8">
     <title>先锋科技仓库管理系统</title>
 </head>
 <body class="in" style="background-image:url('../../base/common/image/login.jpg');">
 <div style="margin-top: 10%; margin-left: 15%">
-    <font face="verdana" size="10px" color="black">仓库管理系统</font>
+    <font style="font-weight:bold;font-style:italic;" size="8px" color="black">先锋科技仓库管理系统</font>
 </div>
-<div id="login" style="background-color: transparent;margin-left: 65%; margin-top: 5%;">
+<div id="login" style="background-color: transparent;margin-left: 50%; margin-top: -5%">
     <form action="#" method="post" class="container offset1 loginform">
-
-        <div class="pad">
-            <input type="hidden" name="_csrf" value="9IAtUxV2CatyxHiK2LxzOsT6wtBE6h8BpzOmk="/>
+        <div class="pad"  style="background-color: transparent;">
             <div class="control-group">
                 <div class="controls">
                     <label for="userName" class="control-label"><i class="fa fa-user" aria-hidden="true"></i></label>
-                    <input id="userName" type="text" name="email" placeholder="账号" tabindex="1" autofocus="autofocus"
+                    <input id="userName" type="text" name="userName" placeholder="账号" autofocus="autofocus"
                            class="form-control input-medium"/>
                 </div>
             </div>
-            <div class="control-group">
+            <div class="control-group" style="margin-top: 10%">
                 <div class="controls">
                     <label for="password" class="control-label"><i class="fa fa-key" aria-hidden="true"></i></label>
-                    <input id="password" type="password" name="password" placeholder="密码" tabindex="2"
+                    <input id="password" type="password" name="password" placeholder="密码"
                            class="form-control input-medium"/>
                 </div>
             </div>
         </div>
-        <div class="form-actions"><a href="#" tabindex="5" class="btn pull-left btn-link text-muted">Forgot
-            password?</a><a href="#" tabindex="6" class="btn btn-link text-muted">Sign Up</a>
-            <button type="button" id="doLogin" tabindex="4" class="btn btn-primary">Login</button>
+        <div class="form-actions" >
+            <button type="button" id="doLogin" class="btn btn-primary" style="width: 100%">Login</button>
         </div>
     </form>
 
 </div>
-<script src="../../js/basic/login.js"></script>
 <script src="../../base/common/jquery/jquery-2.0.3.min.js"></script>
-<link rel="stylesheet" href="../../base/common/css/font-awesome.min.css"/>
-<link rel="stylesheet" href="../../base/common/css/jq22.css"/>
+<script src="../../js/basic/login.js"></script>
+
 </body>
 </html>
