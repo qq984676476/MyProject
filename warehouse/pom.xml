@@ -33,11 +33,13 @@
 		</dependency>
 
 		<!-- spring web -->
-		<dependency>
+		<!--已经被 thymeleaf 包含-->
+		<!--<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
+		</dependency>-->
 
+		<!--thymeleaf模板引擎-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
