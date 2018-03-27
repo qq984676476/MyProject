@@ -173,4 +173,34 @@
       modf_time = #{modfTime,jdbcType=TIMESTAMP}
     where user_id = #{userId,jdbcType=DECIMAL}
   </update>
+
+  <select id="getBySelective" resultMap="BaseResultMap" parameterType="com.coms.warehouse.beans.basic.TUser" >
+    select <include refid="Base_Column_List" /> from t_user
+    <where>
+      <if test="userName != null" >
+        and user_name = #{userName,jdbcType=VARCHAR}
+      </if>
+      <if test="groupId != null" >
+        and group_id = #{groupId,jdbcType=DECIMAL}
+      </if>
+      <if test="userNum != null" >
+        and user_num = #{userNum,jdbcType=VARCHAR}
+      </if>
+      <if test="userPwd != null" >
+        and user_pwd = #{userPwd,jdbcType=VARCHAR}
+      </if>
+      <if test="userType != null" >
+        and user_type = #{userType,jdbcType=TINYINT}
+      </if>
+      <if test="opPerson != null" >
+        and op_person = #{opPerson,jdbcType=DECIMAL}
+      </if>
+      <if test="crtTime != null" >
+        and crt_time = #{crtTime,jdbcType=TIMESTAMP}
+      </if>
+      <if test="modfTime != null" >
+        and modf_time = #{modfTime,jdbcType=TIMESTAMP}
+      </if>
+    </where>
+  </select>
 </mapper>

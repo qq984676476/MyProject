@@ -15,7 +15,7 @@ import java.util.Random;
 import com.sun.image.codec.jpeg.JPEGCodec;
 import com.sun.image.codec.jpeg.JPEGImageEncoder;
 
-public class VerificationCode {
+public class ValidateImage {
     private static final char[] chars = {'0','1','2','3','4','5','6','7','8','9'};
     private static final int SIZE = 4;
     private static final int LINES = 5;
@@ -31,7 +31,7 @@ public class VerificationCode {
         graphic.fillRect(0, 0, WIDTH, HEIGHT);
         Random ran = new Random();
         //画随机字符
-        for(int i = 0;i<=SIZE;i++){
+        for(int i = 0;i<SIZE;i++){
             int r = ran.nextInt(chars.length);
             graphic.setColor(getRandomColor());
             graphic.setFont(new Font(null,Font.BOLD+Font.ITALIC,FONT_SIZE));
@@ -43,7 +43,7 @@ public class VerificationCode {
             graphic.setColor(getRandomColor());
             graphic.drawLine(ran.nextInt(WIDTH),ran.nextInt(HEIGHT),ran.nextInt(WIDTH) , ran.nextInt(HEIGHT));
         }
-        Map<String,BufferedImage> map = new HashMap<String, BufferedImage>();
+        Map<String,BufferedImage> map = new HashMap();
         map.put(sb.toString(), image);
 
         return map;
