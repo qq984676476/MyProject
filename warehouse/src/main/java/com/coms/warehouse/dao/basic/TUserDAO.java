@@ -54,5 +54,5 @@ public interface TUserDAO {
      */
     int updateByPrimaryKey(TUser record);
 
-    List<TUser> getBySelective(TUser record);
+    TUser getBySelective(TUser record);
 }

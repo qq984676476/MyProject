@@ -205,4 +205,40 @@ public class TUser implements Serializable{
     public Date getModfTime() {
         return modfTime;
     }
+
+    public void setUserId(Integer userId) {
+        this.userId = userId;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public void setGroupId(Integer groupId) {
+        this.groupId = groupId;
+    }
+
+    public void setUserNum(String userNum) {
+        this.userNum = userNum;
+    }
+
+    public void setUserPwd(String userPwd) {
+        this.userPwd = userPwd;
+    }
+
+    public void setUserType(Byte userType) {
+        this.userType = userType;
+    }
+
+    public void setOpPerson(Integer opPerson) {
+        this.opPerson = opPerson;
+    }
+
+    public void setCrtTime(Date crtTime) {
+        this.crtTime = crtTime;
+    }
+
+    public void setModfTime(Date modfTime) {
+        this.modfTime = modfTime;
+    }
 }

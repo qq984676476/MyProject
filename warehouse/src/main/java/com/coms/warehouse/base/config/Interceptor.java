@@ -1,7 +1,6 @@
 package com.coms.warehouse.base.config;
 
 import com.coms.warehouse.beans.basic.TUser;
-import org.omg.CORBA.Request;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
@@ -13,7 +12,7 @@ public class Interceptor implements HandlerInterceptor {
     @Override
     public boolean preHandle(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse, Object o) throws Exception {
         Boolean flag;
-        TUser user = (TUser) httpServletRequest.getSession().getAttribute("");
+        TUser user = (TUser) httpServletRequest.getSession().getAttribute("userInfo");
         if(null == user){
             httpServletResponse.sendRedirect("index/login");
             flag = false;

@@ -8,6 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -30,14 +33,18 @@ public class Login {
     }
 
     @RequestMapping(value = "doLogin")
-    public String doLogin(TUser user) throws GeneratorException{
-
-        TUser userParam = new TUser();
-        List<TUser> users = userSV.getUserInfo(user);
-        if(users!=null && users.isEmpty()){
+    public Map<String, Object> doLogin(HttpServletRequest request,TUser user) throws GeneratorException{
+        TUser loginUser = userSV.getUserInfo(user);
+        if(loginUser == null){
             throw new GeneratorException("账号或密码错误");
         };
+        HttpSession session = request.getSession();
+        session.setAttribute("userInfo",loginUser);
+        session.setMaxInactiveInterval(3600);
+        Map resultMap = new HashMap();
+        resultMap.put("userInfo",loginUser);
+        resultMap.put("indexUrl", "index");
 
-        return "";
+        return resultMap;
     }
 }
